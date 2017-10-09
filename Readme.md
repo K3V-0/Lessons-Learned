@@ -1,10 +1,6 @@
-<html>
-<h2>What I've learned at Bloc.io </h2>
-<ol>
-	<li>HTML </li>
-	<li>CSS </li>
-	<li>Git </li>
-	<li>Javascript</li>
+## What I've learned at Bloc.io
 
- </ol>
-</html>
+1. HTML
+1. CSS
+1. Javascript
+1. Git
